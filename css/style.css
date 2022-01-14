@@ -721,6 +721,7 @@ Common Css
   background: #2f21b3;
 }
 
+
 .mainmenunav ul.mainmenu,
 .mainmenunav ul.mainmenu>li>ul.submenu,
 .color-white .mainmenunav ul.mainmenu,
@@ -4593,6 +4594,18 @@ font-family: 'Poppins', sans-serif;
 
 .bg_image--30 {
   background-image: url(../img/bg-image-30.jpg);
+}
+
+.bg_image--31 {
+  background-image: url(/img/bg-image-31.png);
+}
+
+.bg_image--32 {
+  background-image: url(/img/bg-image-32.png);
+}
+
+.bg_image--33 {
+  background-image: url(/img/bg-image-33.png);
 }
 
 .font--1 {
@@ -11236,9 +11249,17 @@ img.react-parallax-bgimage {
   display: block;
 }
 
-.header-area.header--sticky.sticky .humberger-menu span.text-white {
+.header-area.header--sticky.sticky .humberger-menu s.text-white {
   color: #1f1f25 !important;
 }
+
+
+
+/*--- projhect cards--*/
+.projectCard {
+  width: 25rem;
+}
+
 
 /*----------------------------
     Mobile Menu Style Css 
