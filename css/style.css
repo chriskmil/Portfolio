@@ -19841,3 +19841,16 @@ a.purchase-btn:hover {
     border-color: transparent transparent #f9004d transparent;
   }
 }
+
+.section-page {
+  height: 100%;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  padding-right: 8rem;
+  padding-left: 8rem;
+}
+
+/*---project cards---*/
+.projectCard {
+  width: 25rem;
+}
