@@ -12816,7 +12816,7 @@ Footer Style Two
   background-size: cover;
   background-position: center;
   border-radius: 5px;
-  background-color: #b1aeae;
+  background-color: #c2c2c2;
   background-image: url(../img/portfolio-1.jpg);
   -webkit-transform: scale(1.13) translateZ(0);
   transform: scale(1.13) translateZ(0);
@@ -12922,7 +12922,7 @@ Footer Style Two
 }
 
 .portfolio .bg-blr-image.image-7 {
-  background-image: url(../img/ThumbNailBG.jpg);
+  background-image: url(../img/MoneyGrowLogoBG.png);
 }
 
 .portfolio .bg-blr-image.image-8 {
