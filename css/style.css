@@ -445,7 +445,9 @@ hr {
 
 img {
   max-width: 100%;
+ 
 }
+
 
 html {
   overflow: hidden;
@@ -12987,7 +12989,7 @@ Footer Style Two
 }
 
 .portfolio .content .inner .portfolio-button {
-  margin-top: 35px;
+  margin-top: 45px;
   -webkit-transition: 0.7s;
   -o-transition: 0.7s;
   transition: 0.7s;
